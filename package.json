@@ -1,0 +1,15 @@
+{
+  "name": "falta-test-api",
+  "version": "0.0.1",
+  "description": "Manda falta test",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariano Dominguez",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "nodemailer": "^6.1.0"
+  }
+}
